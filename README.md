@@ -1,3 +1,7 @@
+// This is an example of a Modal component using react portals from a tutorial by Luke Whitehouse
+// You may find it useful if you need a basic understanding of how to create a modal or use portals in react
+// You can find the full tutorial here https://assortment.io/posts/accessible-modal-component-react-portals-part-1
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
